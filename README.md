@@ -1,4 +1,4 @@
-# [Personal Site](https://enyanz.com)
+[My personal site](https://enyanz.com)
 
 
 <!---
